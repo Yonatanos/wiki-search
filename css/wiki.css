@@ -1,0 +1,37 @@
+body {
+  background-color: steelblue;
+  color: black;
+}
+h1 {
+  text-align: center;
+}
+div#search-line{
+  margin-left: 40px;
+}
+
+li {
+  list-style-type: none;
+  margin: 20px;
+}
+a {
+  color: inherit;
+}
+a:hover {
+  text-decoration: none;
+}
+a:active h3{
+  font-size: 1.9em;
+}
+h3 {
+  color: green;
+  font-style: italic;
+  margin-bottom: -.5em;
+  margin-left: 20px;
+
+}
+.box {
+  background-color: white;
+  width: 80%;
+  margin: auto 10% auto 10%;
+  border-radius: 10px;
+}
